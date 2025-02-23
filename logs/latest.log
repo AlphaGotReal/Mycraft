@@ -1,81 +1,90 @@
-[12:15:49] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.6+7-Ubuntu-122.04.1; Ubuntu null) on Linux 6.8.0-54-generic (amd64)
-[12:15:49] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.4-173-main@edda0db (2025-02-18T14:58:14Z) for Minecraft 1.21.4
-[12:15:50] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[12:15:50] [ServerMain/INFO]: [PluginInitializerManager] Initialized 0 plugins
-[12:15:54] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[12:15:56] [ServerMain/INFO]: Loaded 1370 recipes
-[12:15:56] [ServerMain/INFO]: Loaded 1481 advancements
-[12:15:56] [ServerMain/INFO]: [MCTypeRegistry] Initialising converters for DataConverter...
-[12:15:56] [ServerMain/INFO]: [MCTypeRegistry] Finished initialising converters for DataConverter in 182.5ms
-[12:15:56] [Server thread/INFO]: Starting minecraft server version 1.21.4
-[12:15:56] [Server thread/INFO]: Loading properties
-[12:15:56] [Server thread/INFO]: This server is running Paper version 1.21.4-173-main@edda0db (2025-02-18T14:58:14Z) (Implementing API version 1.21.4-R0.1-SNAPSHOT)
-[12:15:56] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[12:15:56] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[12:15:56] [Server thread/INFO]: Using 4 threads for Netty based IO
-[12:15:57] [Server thread/INFO]: [MoonriseCommon] Paper is using 2 worker threads, 1 I/O threads
-[12:15:57] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
-[12:15:57] [Server thread/INFO]: Default game type: SURVIVAL
-[12:15:57] [Server thread/INFO]: Generating keypair
-[12:15:57] [Server thread/INFO]: Starting Minecraft server on *:45433
-[12:15:57] [Server thread/INFO]: Using epoll channel type
-[12:15:57] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[12:15:57] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
-[12:15:57] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[12:15:57] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[12:15:57] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[12:15:57] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[12:15:57] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[12:15:57] [Server thread/INFO]: Preparing level "world"
-[12:15:58] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[12:15:58] [Server thread/INFO]: Preparing spawn area: 0%
-[12:15:58] [Server thread/INFO]: Preparing spawn area: 0%
-[12:15:58] [Server thread/INFO]: Time elapsed: 694 ms
-[12:15:58] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[12:15:58] [Server thread/INFO]: Preparing spawn area: 0%
-[12:15:59] [Server thread/INFO]: Time elapsed: 167 ms
-[12:15:59] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[12:15:59] [Server thread/INFO]: Preparing spawn area: 0%
-[12:15:59] [Server thread/INFO]: Time elapsed: 104 ms
-[12:15:59] [Server thread/INFO]: [spark] Starting background profiler...
-[12:15:59] [Server thread/INFO]: Done preparing level "world" (1.704s)
-[12:15:59] [Server thread/INFO]: Running delayed init tasks
-[12:15:59] [Server thread/INFO]: Done (10.433s)! For help, type "help"
-[12:17:51] [User Authenticator #0/INFO]: UUID of player AlphaGotReal is 5cfd37a7-8242-3793-ae4b-f32d29b5d24d
-[12:17:51] [Server thread/INFO]: AlphaGotReal joined the game
-[12:17:51] [Server thread/INFO]: AlphaGotReal[/[0:0:0:0:0:0:0:1]:36538] logged in with entity id 48 at ([world]1371.654321548863, 102.0, -5117.61529217228)
-[12:18:35] [Server thread/INFO]: AlphaGotReal lost connection: Disconnected
-[12:18:35] [Server thread/INFO]: AlphaGotReal left the game
-[12:18:43] [Server thread/INFO]: Stopping the server
-[12:18:43] [Server thread/INFO]: Stopping server
-[12:18:43] [Server thread/INFO]: Saving players
-[12:18:43] [Server thread/INFO]: Saving worlds
-[12:18:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[12:18:43] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
-[12:18:43] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
-[12:18:43] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
-[12:18:43] [Server thread/INFO]: [ChunkHolderManager] Saved 49 block chunks, 49 entity chunks, 0 poi chunks in world 'world' in 0.07s
-[12:18:43] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
-[12:18:43] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
-[12:18:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[12:18:43] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
-[12:18:43] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
-[12:18:43] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
-[12:18:43] [Server thread/INFO]: [ChunkHolderManager] Saved 49 block chunks, 49 entity chunks, 0 poi chunks in world 'world_nether' in 0.05s
-[12:18:43] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
-[12:18:43] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
-[12:18:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[12:18:43] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
-[12:18:43] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
-[12:18:43] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
-[12:18:43] [Server thread/INFO]: [ChunkHolderManager] Saved 49 block chunks, 49 entity chunks, 0 poi chunks in world 'world_the_end' in 0.02s
-[12:18:43] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
-[12:18:43] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
-[12:18:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[12:18:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[12:18:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[12:18:43] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[12:18:43] [Server thread/INFO]: Waiting for I/O tasks to complete...
-[12:18:43] [Server thread/INFO]: All I/O tasks to complete
-[12:18:43] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
-[12:18:43] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
+[00:04:59] [Server thread/INFO]: AlphaGotReal has made the advancement [A Seedy Place]
+[00:07:07] [Server thread/INFO]: anirvesh lost connection: Disconnected
+[00:07:07] [Server thread/INFO]: anirvesh left the game
+[00:08:16] [Server thread/INFO]: Kartik8181 has made the advancement [Hot Stuff]
+[00:09:11] [User Authenticator #5/INFO]: UUID of player anirvesh is 23baf834-02f9-315d-b2db-7a7f07afa407
+[00:09:12] [Server thread/INFO]: anirvesh joined the game
+[00:09:12] [Server thread/INFO]: anirvesh[/[2401:4900:63e2:55d5:c56c:c9da:cfe2:d1e3]:50573] logged in with entity id 20490 at ([world]1322.9527516780379, 97.0, -5160.699999988079)
+[00:10:04] [Server thread/INFO]: anirvesh has made the advancement [Hot Stuff]
+[00:11:08] [Server thread/INFO]: Kartik8181 issued server command: /tp Kartik8181 anirvesh
+[00:11:08] [Server thread/INFO]: [Kartik8181: Teleported Kartik8181 to anirvesh]
+[00:12:43] [Server thread/INFO]: AlphaGotReal issued server command: /tp AlphaGotReal Kartik8181
+[00:12:43] [Server thread/INFO]: [AlphaGotReal: Teleported AlphaGotReal to Kartik8181]
+[00:15:00] [Server thread/INFO]: Kartik8181 lost connection: Disconnected
+[00:15:00] [Server thread/INFO]: Kartik8181 left the game
+[00:15:03] [Server thread/INFO]: AlphaGotReal lost connection: Disconnected
+[00:15:03] [Server thread/INFO]: AlphaGotReal left the game
+[00:15:03] [Async Chat Thread - #0/INFO]: [Not Secure] <anirvesh> leave
+[00:15:08] [User Authenticator #6/INFO]: UUID of player AlphaGotReal is 5cfd37a7-8242-3793-ae4b-f32d29b5d24d
+[00:15:08] [Server thread/INFO]: AlphaGotReal joined the game
+[00:15:08] [Server thread/INFO]: AlphaGotReal[/[0:0:0:0:0:0:0:1]:48732] logged in with entity id 23864 at ([world]1306.3301344436172, 95.0, -5156.946256201783)
+[00:15:22] [User Authenticator #6/INFO]: UUID of player Kartik8181 is e8681a32-fa7b-3c99-9fd3-9914a083c8ea
+[00:15:23] [Server thread/INFO]: Kartik8181 joined the game
+[00:15:23] [Server thread/INFO]: Kartik8181[/[2401:4900:22b1:b815:c9b2:17e7:f7fd:7c75]:56600] logged in with entity id 23930 at ([world]907.9892650366987, 70.0, -5197.314772665283)
+[00:19:38] [Server thread/INFO]: Kartik8181 issued server command: /gamerule randomTickSpeed 15
+[00:19:38] [Server thread/INFO]: [Kartik8181: Gamerule randomTickSpeed is now set to: 15]
+[00:20:11] [Server thread/INFO]: Kartik8181 issued server command: /tp
+[00:20:16] [Server thread/INFO]: Kartik8181 issued server command: /tp
+[00:20:23] [Server thread/INFO]: Kartik8181 issued server command: /tp Kartik8181 anirvesh
+[00:20:23] [Server thread/INFO]: [Kartik8181: Teleported Kartik8181 to anirvesh]
+[00:26:00] [Server thread/INFO]: anirvesh lost connection: Disconnected
+[00:26:00] [Server thread/INFO]: anirvesh left the game
+[00:26:00] [Async Chat Thread - #1/INFO]: [Not Secure] <AlphaGotReal> sleep
+[00:26:11] [Server thread/INFO]: Kartik8181 lost connection: Disconnected
+[00:26:11] [Server thread/INFO]: Kartik8181 left the game
+[00:26:14] [User Authenticator #7/INFO]: UUID of player Kartik8181 is e8681a32-fa7b-3c99-9fd3-9914a083c8ea
+[00:26:15] [Server thread/INFO]: Kartik8181 joined the game
+[00:26:15] [Server thread/INFO]: Kartik8181[/[2401:4900:22b1:b815:c9b2:17e7:f7fd:7c75]:56624] logged in with entity id 27533 at ([world]1394.0931870378083, 125.0, -4962.036078605719)
+[00:26:16] [User Authenticator #7/INFO]: UUID of player anirvesh is 23baf834-02f9-315d-b2db-7a7f07afa407
+[00:26:16] [Server thread/INFO]: anirvesh joined the game
+[00:26:17] [Server thread/INFO]: anirvesh[/[2401:4900:63e2:55d5:c56c:c9da:cfe2:d1e3]:51047] logged in with entity id 27555 at ([world]1405.1235428476386, 63.0, -5231.396797587857)
+[00:27:49] [Server thread/INFO]: AlphaGotReal has made the advancement [What a Deal!]
+[00:37:35] [Server thread/INFO]: anirvesh lost connection: Disconnected
+[00:37:35] [Server thread/INFO]: anirvesh left the game
+[00:37:38] [Server thread/INFO]: AlphaGotReal lost connection: Disconnected
+[00:37:38] [Server thread/INFO]: AlphaGotReal left the game
+[00:37:40] [User Authenticator #8/INFO]: UUID of player AlphaGotReal is 5cfd37a7-8242-3793-ae4b-f32d29b5d24d
+[00:37:41] [Server thread/INFO]: AlphaGotReal joined the game
+[00:37:41] [Server thread/INFO]: AlphaGotReal[/[0:0:0:0:0:0:0:1]:56418] logged in with entity id 32271 at ([world]1366.4034772814487, 101.0, -5117.837531610207)
+[00:37:41] [User Authenticator #8/INFO]: UUID of player anirvesh is 23baf834-02f9-315d-b2db-7a7f07afa407
+[00:37:42] [Server thread/INFO]: anirvesh joined the game
+[00:37:42] [Server thread/INFO]: anirvesh[/[2401:4900:63e2:55d5:c56c:c9da:cfe2:d1e3]:51128] logged in with entity id 32284 at ([world]1135.7850990428901, 60.42318434329635, -5592.288134439559)
+[00:48:58] [Server thread/INFO]: AlphaGotReal lost connection: Disconnected
+[00:48:58] [Server thread/INFO]: AlphaGotReal left the game
+[00:49:00] [Server thread/INFO]: anirvesh lost connection: Disconnected
+[00:49:00] [Server thread/INFO]: anirvesh left the game
+[00:49:10] [Server thread/INFO]: Kartik8181 lost connection: Disconnected
+[00:49:10] [Server thread/INFO]: Kartik8181 left the game
+[00:49:50] [Server thread/INFO]: Stopping the server
+[00:49:50] [Server thread/INFO]: Stopping server
+[00:49:50] [Server thread/INFO]: Saving players
+[00:49:50] [Server thread/INFO]: Saving worlds
+[00:49:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[00:49:50] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[00:49:50] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[00:49:50] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[00:49:50] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 22 entity chunks, 0 poi chunks in world 'world' in 0.01s
+[00:49:50] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
+[00:49:50] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
+[00:49:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[00:49:50] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[00:49:50] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[00:49:50] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[00:49:50] [Server thread/INFO]: [ChunkHolderManager] Saved 1 block chunks, 1 entity chunks, 0 poi chunks in world 'world_nether' in 0.00s
+[00:49:50] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
+[00:49:50] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
+[00:49:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[00:49:50] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[00:49:50] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[00:49:50] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[00:49:50] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
+[00:49:50] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
+[00:49:50] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
+[00:49:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:49:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:49:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:49:50] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:49:50] [Server thread/INFO]: Waiting for I/O tasks to complete...
+[00:49:50] [Server thread/INFO]: All I/O tasks to complete
+[00:49:50] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
+[00:49:50] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
