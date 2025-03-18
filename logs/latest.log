@@ -1,90 +1,149 @@
-[00:04:59] [Server thread/INFO]: AlphaGotReal has made the advancement [A Seedy Place]
-[00:07:07] [Server thread/INFO]: anirvesh lost connection: Disconnected
-[00:07:07] [Server thread/INFO]: anirvesh left the game
-[00:08:16] [Server thread/INFO]: Kartik8181 has made the advancement [Hot Stuff]
-[00:09:11] [User Authenticator #5/INFO]: UUID of player anirvesh is 23baf834-02f9-315d-b2db-7a7f07afa407
-[00:09:12] [Server thread/INFO]: anirvesh joined the game
-[00:09:12] [Server thread/INFO]: anirvesh[/[2401:4900:63e2:55d5:c56c:c9da:cfe2:d1e3]:50573] logged in with entity id 20490 at ([world]1322.9527516780379, 97.0, -5160.699999988079)
-[00:10:04] [Server thread/INFO]: anirvesh has made the advancement [Hot Stuff]
-[00:11:08] [Server thread/INFO]: Kartik8181 issued server command: /tp Kartik8181 anirvesh
-[00:11:08] [Server thread/INFO]: [Kartik8181: Teleported Kartik8181 to anirvesh]
-[00:12:43] [Server thread/INFO]: AlphaGotReal issued server command: /tp AlphaGotReal Kartik8181
-[00:12:43] [Server thread/INFO]: [AlphaGotReal: Teleported AlphaGotReal to Kartik8181]
-[00:15:00] [Server thread/INFO]: Kartik8181 lost connection: Disconnected
-[00:15:00] [Server thread/INFO]: Kartik8181 left the game
-[00:15:03] [Server thread/INFO]: AlphaGotReal lost connection: Disconnected
-[00:15:03] [Server thread/INFO]: AlphaGotReal left the game
-[00:15:03] [Async Chat Thread - #0/INFO]: [Not Secure] <anirvesh> leave
-[00:15:08] [User Authenticator #6/INFO]: UUID of player AlphaGotReal is 5cfd37a7-8242-3793-ae4b-f32d29b5d24d
-[00:15:08] [Server thread/INFO]: AlphaGotReal joined the game
-[00:15:08] [Server thread/INFO]: AlphaGotReal[/[0:0:0:0:0:0:0:1]:48732] logged in with entity id 23864 at ([world]1306.3301344436172, 95.0, -5156.946256201783)
-[00:15:22] [User Authenticator #6/INFO]: UUID of player Kartik8181 is e8681a32-fa7b-3c99-9fd3-9914a083c8ea
-[00:15:23] [Server thread/INFO]: Kartik8181 joined the game
-[00:15:23] [Server thread/INFO]: Kartik8181[/[2401:4900:22b1:b815:c9b2:17e7:f7fd:7c75]:56600] logged in with entity id 23930 at ([world]907.9892650366987, 70.0, -5197.314772665283)
-[00:19:38] [Server thread/INFO]: Kartik8181 issued server command: /gamerule randomTickSpeed 15
-[00:19:38] [Server thread/INFO]: [Kartik8181: Gamerule randomTickSpeed is now set to: 15]
-[00:20:11] [Server thread/INFO]: Kartik8181 issued server command: /tp
-[00:20:16] [Server thread/INFO]: Kartik8181 issued server command: /tp
-[00:20:23] [Server thread/INFO]: Kartik8181 issued server command: /tp Kartik8181 anirvesh
-[00:20:23] [Server thread/INFO]: [Kartik8181: Teleported Kartik8181 to anirvesh]
-[00:26:00] [Server thread/INFO]: anirvesh lost connection: Disconnected
-[00:26:00] [Server thread/INFO]: anirvesh left the game
-[00:26:00] [Async Chat Thread - #1/INFO]: [Not Secure] <AlphaGotReal> sleep
-[00:26:11] [Server thread/INFO]: Kartik8181 lost connection: Disconnected
-[00:26:11] [Server thread/INFO]: Kartik8181 left the game
-[00:26:14] [User Authenticator #7/INFO]: UUID of player Kartik8181 is e8681a32-fa7b-3c99-9fd3-9914a083c8ea
-[00:26:15] [Server thread/INFO]: Kartik8181 joined the game
-[00:26:15] [Server thread/INFO]: Kartik8181[/[2401:4900:22b1:b815:c9b2:17e7:f7fd:7c75]:56624] logged in with entity id 27533 at ([world]1394.0931870378083, 125.0, -4962.036078605719)
-[00:26:16] [User Authenticator #7/INFO]: UUID of player anirvesh is 23baf834-02f9-315d-b2db-7a7f07afa407
-[00:26:16] [Server thread/INFO]: anirvesh joined the game
-[00:26:17] [Server thread/INFO]: anirvesh[/[2401:4900:63e2:55d5:c56c:c9da:cfe2:d1e3]:51047] logged in with entity id 27555 at ([world]1405.1235428476386, 63.0, -5231.396797587857)
-[00:27:49] [Server thread/INFO]: AlphaGotReal has made the advancement [What a Deal!]
-[00:37:35] [Server thread/INFO]: anirvesh lost connection: Disconnected
-[00:37:35] [Server thread/INFO]: anirvesh left the game
-[00:37:38] [Server thread/INFO]: AlphaGotReal lost connection: Disconnected
-[00:37:38] [Server thread/INFO]: AlphaGotReal left the game
-[00:37:40] [User Authenticator #8/INFO]: UUID of player AlphaGotReal is 5cfd37a7-8242-3793-ae4b-f32d29b5d24d
-[00:37:41] [Server thread/INFO]: AlphaGotReal joined the game
-[00:37:41] [Server thread/INFO]: AlphaGotReal[/[0:0:0:0:0:0:0:1]:56418] logged in with entity id 32271 at ([world]1366.4034772814487, 101.0, -5117.837531610207)
-[00:37:41] [User Authenticator #8/INFO]: UUID of player anirvesh is 23baf834-02f9-315d-b2db-7a7f07afa407
-[00:37:42] [Server thread/INFO]: anirvesh joined the game
-[00:37:42] [Server thread/INFO]: anirvesh[/[2401:4900:63e2:55d5:c56c:c9da:cfe2:d1e3]:51128] logged in with entity id 32284 at ([world]1135.7850990428901, 60.42318434329635, -5592.288134439559)
-[00:48:58] [Server thread/INFO]: AlphaGotReal lost connection: Disconnected
-[00:48:58] [Server thread/INFO]: AlphaGotReal left the game
-[00:49:00] [Server thread/INFO]: anirvesh lost connection: Disconnected
-[00:49:00] [Server thread/INFO]: anirvesh left the game
-[00:49:10] [Server thread/INFO]: Kartik8181 lost connection: Disconnected
-[00:49:10] [Server thread/INFO]: Kartik8181 left the game
-[00:49:50] [Server thread/INFO]: Stopping the server
-[00:49:50] [Server thread/INFO]: Stopping server
-[00:49:50] [Server thread/INFO]: Saving players
-[00:49:50] [Server thread/INFO]: Saving worlds
-[00:49:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[00:49:50] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
-[00:49:50] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
-[00:49:50] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
-[00:49:50] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 22 entity chunks, 0 poi chunks in world 'world' in 0.01s
-[00:49:50] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
-[00:49:50] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
-[00:49:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[00:49:50] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
-[00:49:50] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
-[00:49:50] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
-[00:49:50] [Server thread/INFO]: [ChunkHolderManager] Saved 1 block chunks, 1 entity chunks, 0 poi chunks in world 'world_nether' in 0.00s
-[00:49:50] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
-[00:49:50] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
-[00:49:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[00:49:50] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
-[00:49:50] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
-[00:49:50] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
-[00:49:50] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
-[00:49:50] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
-[00:49:50] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
-[00:49:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[00:49:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[00:49:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[00:49:50] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[00:49:50] [Server thread/INFO]: Waiting for I/O tasks to complete...
-[00:49:50] [Server thread/INFO]: All I/O tasks to complete
-[00:49:50] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
-[00:49:50] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
+[00:00:07] [Server thread/INFO]: goos_is_life has made the advancement [Acquire Hardware]
+[00:00:10] [Server thread/INFO]: Birthstones has made the advancement [Isn't It Iron Pick]
+[00:00:21] [Server thread/INFO]: goos_is_life has made the advancement [Suit Up]
+[00:01:36] [Server thread/INFO]: goos_is_life has made the advancement [Isn't It Iron Pick]
+[00:03:23] [User Authenticator #2/INFO]: UUID of player swaghil is a2e9d691-58d0-36cf-90ba-10a60f019a0c
+[00:03:24] [Server thread/INFO]: swaghil joined the game
+[00:03:24] [Server thread/INFO]: swaghil[/[2409:40f2:3047:216f:6864:5fd6:5648:cf24]:63020] logged in with entity id 3906 at ([world]1372.5, 100.0, -5134.5)
+[00:03:30] [Async Chat Thread - #2/INFO]: [Not Secure] <Birthstones> hi
+[00:03:51] [Server thread/INFO]: swaghil has made the advancement [Suit Up]
+[00:04:35] [Server thread/INFO]: swaghil has made the advancement [Isn't It Iron Pick]
+[00:04:41] [Server thread/INFO]: swaghil has made the advancement [Acquire Hardware]
+[00:04:44] [Server thread/INFO]: Birthstones has made the advancement [We Need to Go Deeper]
+[00:04:53] [Server thread/INFO]: goos_is_life has made the advancement [We Need to Go Deeper]
+[00:04:59] [Server thread/INFO]: AlphaGotReal issued server command: /tps
+[00:06:21] [Server thread/INFO]: goos_is_life tried to swim in lava
+[00:08:08] [User Authenticator #3/INFO]: UUID of player PoopPower333 is 322ffc55-d09b-3b20-bbeb-1d059335dc42
+[00:08:09] [Server thread/INFO]: PoopPower333 joined the game
+[00:08:09] [Server thread/INFO]: PoopPower333[/[2401:4900:65c9:8596:165:895:3bb3:3dd3]:55161] logged in with entity id 5155 at ([world]1379.5, 101.0, -5135.5)
+[00:08:14] [Async Chat Thread - #4/INFO]: [Not Secure] <Birthstones> hi
+[00:09:42] [Server thread/INFO]: PoopPower333 has made the advancement [Acquire Hardware]
+[00:10:18] [Server thread/INFO]: PoopPower333 has made the advancement [Suit Up]
+[00:11:23] [Server thread/INFO]: Birthstones issued server command: /coords
+[00:11:29] [Async Chat Thread - #6/INFO]: [Not Secure] <Kartik8181> 1220 -5096
+[00:11:35] [Server thread/INFO]: PoopPower333 has made the advancement [Isn't It Iron Pick]
+[00:11:44] [Server thread/INFO]: swaghil has made the advancement [Stone Age]
+[00:15:56] [Server thread/INFO]: goos_is_life was slain by Enderman
+[00:15:59] [Server thread/INFO]: swaghil has made the advancement [Monster Hunter]
+[00:16:36] [Server thread/INFO]: PoopPower333 has made the advancement [Monster Hunter]
+[00:18:03] [Async Chat Thread - #8/INFO]: [Not Secure] <Birthstones> 1344 94 -5089
+[00:18:09] [Server thread/INFO]: PoopPower333 issued server command: /help
+[00:19:14] [Async Chat Thread - #10/INFO]: [Not Secure] <Birthstones> 1317 95 -5049
+[00:19:29] [Server thread/INFO]: Villager Villager['Nitwit'/223, uuid='87d80c07-ce84-4675-87e9-f975faa7fcd8', l='ServerLevel[world]', x=1275.41, y=75.00, z=-5150.07, cpos=[79, -322], tl=36689, v=true] died, message: 'Nitwit was slain by Zombie'
+[00:19:54] [Server thread/INFO]: Birthstones has made the advancement [The Parrots and the Bats]
+[00:22:53] [Server thread/INFO]: Birthstones has made the advancement [Stone Age]
+[00:23:32] [Server thread/INFO]: PoopPower333 has made the advancement [A Seedy Place]
+[00:25:30] [Server thread/INFO]: goos_is_life has made the advancement [Stone Age]
+[00:26:26] [Server thread/INFO]: Villager Villager['Villager'/182, uuid='f82e453f-4b5f-4a3d-8509-2c7edf058f89', l='ServerLevel[world]', x=1353.57, y=99.00, z=-5129.60, cpos=[84, -321], tl=45031, v=true] died, message: 'Villager burned to death'
+[00:27:19] [Server thread/INFO]: AlphaGotReal has made the advancement [The Parrots and the Bats]
+[00:29:20] [Async Chat Thread - #12/INFO]: [Not Secure] <swaghil> 1269, 42, -5264
+[00:33:23] [Async Chat Thread - #14/INFO]: [Not Secure] <Birthstones> 1269 42 -5264
+[00:33:48] [Server thread/INFO]: goos_is_life was slain by Zombie
+[00:34:12] [Server thread/INFO]: PoopPower333 lost connection: Disconnected
+[00:34:12] [Server thread/INFO]: PoopPower333 left the game
+[00:36:12] [User Authenticator #4/INFO]: UUID of player PoopPower333 is 322ffc55-d09b-3b20-bbeb-1d059335dc42
+[00:36:14] [Server thread/INFO]: PoopPower333 joined the game
+[00:36:14] [Server thread/INFO]: PoopPower333[/[2401:4900:65c9:8596:165:895:3bb3:3dd3]:56698] logged in with entity id 15142 at ([world]1577.6742787883531, 127.0, -4787.699999988079)
+[00:36:33] [Async Chat Thread - #16/INFO]: [Not Secure] <AlphaGotReal> leave
+[00:36:34] [Server thread/INFO]: swaghil lost connection: Disconnected
+[00:36:34] [Server thread/INFO]: swaghil left the game
+[00:36:34] [Server thread/INFO]: Kartik8181 lost connection: Disconnected
+[00:36:34] [Server thread/INFO]: Kartik8181 left the game
+[00:36:36] [Server thread/INFO]: PoopPower333 lost connection: Disconnected
+[00:36:36] [Server thread/INFO]: PoopPower333 left the game
+[00:36:41] [Server thread/INFO]: Birthstones lost connection: Disconnected
+[00:36:41] [Server thread/INFO]: Birthstones left the game
+[00:36:55] [Server thread/INFO]: goos_is_life lost connection: Disconnected
+[00:36:55] [Server thread/INFO]: goos_is_life left the game
+[00:36:59] [User Authenticator #4/INFO]: UUID of player goos_is_life is e419831a-a7d7-36df-9f75-0c897483ccc6
+[00:36:59] [Server thread/INFO]: goos_is_life joined the game
+[00:36:59] [Server thread/INFO]: goos_is_life[/[2401:4900:9004:61dc:1d61:e77:70b2:49c2]:53368] logged in with entity id 15558 at ([world]1281.4954883888286, 91.0, -5119.116147018697)
+[00:37:00] [User Authenticator #4/INFO]: UUID of player Birthstones is da43bfe3-8dc9-3394-8767-68c07a43e7a3
+[00:37:01] [Server thread/INFO]: Birthstones joined the game
+[00:37:01] [Server thread/INFO]: Birthstones[/[2401:4900:6319:2831:886c:b52a:2c5b:1b51]:49806] logged in with entity id 15572 at ([world]1337.9580505320182, 107.0, -5239.446550563156)
+[00:37:02] [User Authenticator #4/INFO]: UUID of player PoopPower333 is 322ffc55-d09b-3b20-bbeb-1d059335dc42
+[00:37:03] [Server thread/INFO]: PoopPower333 joined the game
+[00:37:03] [Server thread/INFO]: PoopPower333[/[2401:4900:65c9:8596:165:895:3bb3:3dd3]:56731] logged in with entity id 15592 at ([world]1577.0123612414375, 127.0, -4786.322878029485)
+[00:37:06] [User Authenticator #4/INFO]: UUID of player swaghil is a2e9d691-58d0-36cf-90ba-10a60f019a0c
+[00:37:08] [Server thread/INFO]: swaghil joined the game
+[00:37:08] [Server thread/INFO]: swaghil[/[2409:40f2:3047:216f:6864:5fd6:5648:cf24]:63288] logged in with entity id 15701 at ([world]1359.0581173818239, 115.0, -5242.894361268311)
+[00:37:13] [User Authenticator #4/INFO]: UUID of player Kartik8181 is e8681a32-fa7b-3c99-9fd3-9914a083c8ea
+[00:37:14] [Server thread/INFO]: Kartik8181 joined the game
+[00:37:14] [Server thread/INFO]: Kartik8181[/[2401:4900:91f4:820e:40f0:9ae5:b131:9369]:63788] logged in with entity id 15885 at ([world]1384.8772754286679, 120.0, -5241.782519843291)
+[00:40:17] [Server thread/INFO]: PoopPower333 has made the advancement [Stone Age]
+[00:41:00] [Async Chat Thread - #18/INFO]: [Not Secure] <AlphaGotReal> 1400 -50000
+[00:41:07] [Async Chat Thread - #18/INFO]: [Not Secure] <AlphaGotReal> 1400 -5000
+[00:41:34] [Server thread/INFO]: PoopPower333 issued server command: /
+[00:48:00] [Async Chat Thread - #20/INFO]: [Not Secure] <goos_is_life> send coords
+[00:48:14] [Async Chat Thread - #21/INFO]: [Not Secure] <Birthstones> 1458 13 -4953
+[00:49:17] [Server thread/INFO]: PoopPower333 has made the advancement [Not Today, Thank You]
+[00:51:31] [Server thread/INFO]: Birthstones has made the advancement [Diamonds!]
+[00:51:42] [Server thread/INFO]: swaghil has made the advancement [Diamonds!]
+[00:51:58] [Server thread/INFO]: PoopPower333 has made the advancement [Diamonds!]
+[00:53:19] [Server thread/INFO]: Birthstones has made the advancement [Sneak 100]
+[00:53:22] [Server thread/INFO]: AlphaGotReal has made the advancement [Sneak 100]
+[00:53:59] [Server thread/INFO]: PoopPower333 has made the advancement [Sneak 100]
+[00:54:12] [Server thread/INFO]: swaghil has made the advancement [Sneak 100]
+[00:54:24] [Server thread/INFO]: Kartik8181 has made the advancement [Sneak 100]
+[00:59:35] [Server thread/INFO]: AlphaGotReal was obliterated by a sonically-charged shriek
+[00:59:46] [Server thread/INFO]: Birthstones has made the advancement [Cover Me with Diamonds]
+[01:00:06] [Server thread/INFO]: AlphaGotReal issued server command: /tp Birthstones AlphaGotReal
+[01:00:06] [Server thread/INFO]: [AlphaGotReal: Teleported Birthstones to AlphaGotReal]
+[01:00:16] [Server thread/INFO]: AlphaGotReal issued server command: /tp AlphaGotReal Kartik8181
+[01:00:16] [Server thread/INFO]: [AlphaGotReal: Teleported AlphaGotReal to Kartik8181]
+[01:00:32] [Server thread/INFO]: AlphaGotReal issued server command: /tp Kartik8181 Birthstones
+[01:00:32] [Server thread/INFO]: [AlphaGotReal: Teleported Kartik8181 to Birthstones]
+[01:00:45] [Server thread/INFO]: AlphaGotReal issued server command: /tp Birthstones AlphaGotReal
+[01:00:45] [Server thread/INFO]: [AlphaGotReal: Teleported Birthstones to AlphaGotReal]
+[01:00:54] [Server thread/INFO]: AlphaGotReal issued server command: /tp Kartik8181 AlphaGotReal
+[01:00:54] [Server thread/INFO]: [AlphaGotReal: Teleported Kartik8181 to AlphaGotReal]
+[01:01:40] [Server thread/INFO]: AlphaGotReal issued server command: /tp AlphaGotReal Kartik8181
+[01:01:40] [Server thread/INFO]: [AlphaGotReal: Teleported AlphaGotReal to Kartik8181]
+[01:02:35] [Server thread/INFO]: Birthstones tried to swim in lava to escape Warden
+[01:02:40] [Server thread/INFO]: AlphaGotReal was obliterated by a sonically-charged shriek
+[01:02:47] [Server thread/INFO]: Kartik8181 was slain by Warden
+[01:03:41] [Server thread/INFO]: Kartik8181 lost connection: Disconnected
+[01:03:41] [Server thread/INFO]: Kartik8181 left the game
+[01:04:00] [Server thread/INFO]: swaghil lost connection: Disconnected
+[01:04:00] [Server thread/INFO]: swaghil left the game
+[01:04:01] [Server thread/INFO]: PoopPower333 lost connection: Disconnected
+[01:04:01] [Server thread/INFO]: PoopPower333 left the game
+[01:04:11] [Server thread/INFO]: AlphaGotReal lost connection: Disconnected
+[01:04:11] [Server thread/INFO]: AlphaGotReal left the game
+[01:04:14] [Server thread/INFO]: Birthstones lost connection: Disconnected
+[01:04:14] [Server thread/INFO]: Birthstones left the game
+[01:05:36] [Server thread/INFO]: Stopping the server
+[01:05:36] [Server thread/INFO]: Stopping server
+[01:05:36] [Server thread/INFO]: Saving players
+[01:05:36] [Server thread/INFO]: goos_is_life lost connection: Server closed
+[01:05:36] [Server thread/INFO]: goos_is_life left the game
+[01:05:36] [Server thread/INFO]: Saving worlds
+[01:05:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[01:05:36] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[01:05:36] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[01:05:36] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[01:05:36] [Server thread/INFO]: [ChunkHolderManager] Saved 191 block chunks, 452 entity chunks, 2 poi chunks in world 'world' in 0.28s
+[01:05:36] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
+[01:05:36] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
+[01:05:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[01:05:36] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[01:05:36] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[01:05:36] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[01:05:36] [Server thread/INFO]: [ChunkHolderManager] Saved 1 block chunks, 1 entity chunks, 0 poi chunks in world 'world_nether' in 0.00s
+[01:05:36] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
+[01:05:36] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
+[01:05:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[01:05:36] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[01:05:36] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[01:05:36] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[01:05:36] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
+[01:05:36] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
+[01:05:36] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
+[01:05:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:05:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:05:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:05:36] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[01:05:36] [Server thread/INFO]: Waiting for I/O tasks to complete...
+[01:05:36] [Server thread/INFO]: All I/O tasks to complete
+[01:05:36] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
+[01:05:36] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
