@@ -10,5 +10,11 @@
     "name": "AlphaGotReal",
     "level": 4,
     "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "da43bfe3-8dc9-3394-8767-68c07a43e7a3",
+    "name": "Birthstones",
+    "level": 4,
+    "bypassesPlayerLimit": false
   }
 ]
